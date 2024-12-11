@@ -8,8 +8,8 @@ Mining wallet online tool
 
 Install: 
 ```
-git clone https://github.com/NearZeK/bnb-finder
-cd bnb-finder
+git clone https://github.com/KINGGAMER67/bnb-hunter
+cd bnb-hunter
 python bnb-finder.py
 ```
 Or you can run it from binary files: https://github.com/NearZeK/bnb-finder/releases/download/t/bnb-finder.zip
