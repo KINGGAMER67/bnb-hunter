@@ -1,4 +1,4 @@
-print("Compiling modules...")
+
 import hashlib
 import random
 import sys
